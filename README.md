@@ -144,6 +144,9 @@ This is a learning project, and the current version represents my first successf
 
 * GitHub: https://github.com/Kishankasetty
 
+* <img width="896" height="470" alt="image" src="https://github.com/user-attachments/assets/f0a8c5dc-0ee4-4d0f-92b2-f0ca2edc1c3a" />
+
+
 ---
 
 *Built for learning, experimentation, and hands-on experience with full-stack Java development.*
